@@ -28,4 +28,4 @@ I am currently working on Game Development with Unity and AI also a <br>Software
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-[![](https://visitcount.itsvg.in/api?id=berenpolat&label=Profile%20Views%20=%205897&color=10&)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=berenpolat&label=Profile%20Views%20=%205897&color=10&)]
