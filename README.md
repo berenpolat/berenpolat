@@ -1,5 +1,5 @@
 # 💫 About Me:
- </> I am currently working on Game Development with Unity and AI also a <br>Software Engineering student. I am trying to get professional with Rust, <br>C#, Java and C.   </>   I have high proficiency of English, native Turkish and <br>low level of German. FunFact : Kinda good at Valorant (jk, just depends on the day)<br><br>.<br><br>
+ </> I am currently working on Game Development with Unity and AI also a <br>Software Engineering student. I am trying to get professional with Rust, <br>C#, Java and C.   </>   I have high proficiency of English, native Turkish and <br>low level of German. FunFact : Kinda good at Valorant (jk, just depends on the day).<br><br>
 
 
 ## 🌐 Socials:
