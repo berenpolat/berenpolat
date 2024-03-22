@@ -36,6 +36,4 @@
 
 ---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-[![](https://visitcount.itsvg.in/api?id=berenpolat&label=Profile%20Views%20:%205987&color=10&)](https://visitcount.itsvg.in)
