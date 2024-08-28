@@ -24,8 +24,9 @@
 • HTML/CSS
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=berenpolat&theme=dark&hide_border=false)<br/>
+# 📊 GitHub Stats
+![GitHub Snake Graph](https://github.com/berenpolat/berenpolat/blob/output/github-contribution-grid-snake.svg)
+
 
 
 ## 🏆 GitHub Trophies
