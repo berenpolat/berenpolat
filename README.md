@@ -1,5 +1,5 @@
 
- </>Hi, I am currently working on cloud development and blockchain technology and also im a <br>Software Engineering student. I am trying to get professional with Rust, <br>C#, Java and C++.   </>. FunFacts : •Kinda good at Valorant (jk, depends on the day, mostly bad.)  
+ </>Hi, I am currently working on cloud development and blockchain technology and also im a <br>Software Engineering student. I am trying to get professional with Rust, <br>C#, Java and C++.   </>. 
 
 
 ##  Socials:
